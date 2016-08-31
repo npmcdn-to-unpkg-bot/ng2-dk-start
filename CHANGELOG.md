@@ -1,3 +1,4 @@
+
 <a name="0.2.5"></a>
 # 0.2.6 (2016-08-09)
 * Angular 2 RC5 version
